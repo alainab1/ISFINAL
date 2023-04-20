@@ -1,0 +1,31 @@
+/* Style definition for a class named "title" */
+.title {32px;
+  font-weight: bold;
+  color: #333;
+}
+
+/* Style definition for a class named "subtitle" */
+.h1{font-size: 24px;
+  font-weight: bold;
+  color: #555;
+  font-family: Arial, sans-serif;
+    
+}
+ 
+/* Style definition for a class named "content" */
+.content {
+  font-size: 16px;
+  line-height: 1.5;
+  color: #777;
+  font-family: Georgia, serif;
+}
+
+/* Style definition for a class named "box" */
+.box {
+  width: 200px;
+  height: 200px;
+  background-color:#AEC6CF;
+  border: 1px solid #ccc;
+  position: relative;
+  margin: 10px;
+}
